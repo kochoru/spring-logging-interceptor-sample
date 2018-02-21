@@ -1,0 +1,3 @@
+# Sample of intercepting logger on Spring boot application
+
+but doesn't work...
